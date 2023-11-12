@@ -292,7 +292,7 @@ html[data-w-dynpage] [data-w-cloak] {
   color: rgba(0, 0, 0, 0) !important;
 }
 
-/* .w-webflow-badge, .w-webflow-badge * {
+.w-webflow-badge, .w-webflow-badge * {
   z-index: auto;
   visibility: visible;
   box-sizing: border-box;
@@ -377,7 +377,7 @@ html[data-w-dynpage] [data-w-cloak] {
   opacity: 1 !important;
   vertical-align: middle !important;
   display: inline-block !important;
-} */
+}
 
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: 10px;
@@ -2507,14 +2507,14 @@ textarea.w-input, textarea.w-select {
 }
 
 .div-block-2 {
-  background-image: url("https://uploads-ssl.webflow.com/64e1e0cbbafc824817e40038/64e5b9ab478b507f9e08e55d_pexels-anete-lusina-5247969.jpg");
+  background-image: url("./img/radnik1.jpg");
   background-position: 50%;
   background-size: cover;
 }
 
 .background-image {
   height: 100vh;
-  background-image: url("https://uploads-ssl.webflow.com/64e1e0cbbafc824817e40038/64e5bbcb72af00711a40c4ff_pexels-hebert-santos-3913549.jpg");
+  background-image: url("./img/background_image.jpg");
   background-position: 0 70%;
   background-repeat: repeat;
   background-size: auto;
